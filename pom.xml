@@ -13,5 +13,10 @@
         <module>gulimall-order</module>
         <module>gulimall-ware</module>
         <module>gulimall-coupon</module>
+        <module>renren-admin</module>
+        <module>renren-api</module>
+        <module>renren-common</module>
+        <module>renren-dynamic-datasource</module>
+        <module>renren-generator</module>
     </modules>
 </project>
